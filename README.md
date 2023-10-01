@@ -2,6 +2,9 @@
 
 In the project directory, you can run:
 
+### add node modules 
+use this command to install node modules - <Strong> npm install -g node-modules </Strong>
+
 ### `npm start both`
 
 Runs the app in the development mode.\
